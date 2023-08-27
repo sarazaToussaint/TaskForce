@@ -1,6 +1,6 @@
-# Budget-app
+# Wallet-App
 
-> Budget-app is a mobile web application that assists users with money management. It may also show consumers a list of transactions they've done that are tied to their categories, as well as the overall amount of money they've spent.
+> Wallet-App is a mobile web application that assists users with money management. It may also show consumers a list of transactions they've done that are tied to their categories, as well as the overall amount of money they've spent.
 
 ## Built With
 
@@ -11,11 +11,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://budget-app-xyty.onrender.com/)
-
-## Video Link
-
-[VIDEO LINK](https://www.loom.com/share/0973bd816d8e406abacaec6d7ab9ef8c)
+[Live Demo Link]()
 
 ## Getting Started
 
@@ -34,10 +30,10 @@ You need the following tools be installed in your computer:
 
 1. Download the Zip file or clone the repo with:
 
-   `https://github.com/sarazaToussaint/Budget-app.git`
+   `https://github.com/sarazaToussaint/TaskForce.git`
 
 2. To access the project directory
-   `cd Budget-app`
+   `cd TaskForce`
 
 ### Install
 
@@ -67,12 +63,9 @@ To run tests:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/mwafrika/budget-app/issues).
-
+Feel free to check the [issues page](https://github.com/sarazaToussaint/TaskForce/issues).
 ## Show your support
-
 Give a ⭐️ if you like this project!
-
 ## Acknowledgments
 
 - We are grateful to  [Gregoire Vella](https://www.behance.net/gregoirevella) on Behance for providing the design guidelines
