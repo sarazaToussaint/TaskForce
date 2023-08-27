@@ -19,7 +19,7 @@
 
 ### Prerequisites
 
-You need the following tools be installed in your computer:
+You need the following tools being installed in your computer:
 
 - Git
 - Ruby
@@ -27,13 +27,12 @@ You need the following tools be installed in your computer:
 - PostgreSql
 
 ### Setup
-
 1. Download the Zip file or clone the repo with:
 
-   `https://github.com/sarazaToussaint/TaskForce.git`
+  Open terminal and run: `git clone` `https://github.com/sarazaToussaint/TaskForce.git`
 
 2. To access the project directory
-   `cd TaskForce`
+  Run: `cd TaskForce`
 
 ### Install
 
